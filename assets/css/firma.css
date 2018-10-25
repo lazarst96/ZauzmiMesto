@@ -1,0 +1,93 @@
+
+*,::after,::before{
+	box-sizing:border-box;
+}
+#mapa{
+	height:500px;
+	width:100%;
+	margin-bottom: 20px;
+}
+.table_shed{
+	margin-bottom:20px;
+}
+.table_shed td{
+	text-align: center;
+	height:30px;
+	font-weight: bold;
+}
+.table_shed th{
+	width:40px;
+	text-align: center;
+	color:#495057;
+	background-color: #e9ecef;
+	
+}
+.table_shed thead td{
+	font-weight: 300;
+	font-size:18px;
+}
+.table_shed tbody td{
+	border-top: 1px solid #ccc;
+}
+.table_shed tbody{
+	border-right:1px solid #ccc;
+}
+.table_capacity{
+	border-radius:6px 0px 0px 0px;
+	
+}
+.table_count{
+	border-radius:0px 0px 0px 6px;
+	
+}
+.table_wtime tr:last-child td{
+	border-bottom:1px solid #ccc;
+}
+figure{
+	display:block;
+}
+figure{
+	margin:0 0 1rem;
+}
+ @media print{
+*,::after,::before
+text-shadow:none!important;box-shadow:none!important;
+}
+}
+*{
+	box-sizing:border-box;
+}
+
+*,::after,::before{
+	box-sizing:border-box;
+}
+figure{
+	display:block;
+}
+figure{
+	margin:0 0 1rem;
+}
+ @media print{
+*,::after,::before{
+	text-shadow:none!important;box-shadow:none!important;
+}
+}
+*{
+	box-sizing:border-box;
+}
+.center{
+	text-align:center;
+}
+.note{
+	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=70);opacity:0.7;font-size:12px;margin:10px 0;
+}
+.center{
+	text-align:center;
+}
+.note{
+	filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=70);opacity:0.7;font-size:12px;margin:10px 0;
+}
+.form-group{
+	margin-bottom: 0;
+	margin-top: 1rem;
+}
